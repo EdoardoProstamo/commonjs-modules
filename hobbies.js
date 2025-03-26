@@ -5,3 +5,7 @@
 function allHobbyes(hobbyOne, hobbyTwo, hobbyThree) {
     return [hobbyOne, hobbyTwo, hobbyThree];
 };
+
+
+// esporto il modulo
+module.exports = allHobbyes;

@@ -12,3 +12,6 @@ function allName(firstName, lastName) {
         lastName
     }
 };
+
+// esporto il modulo
+module.exports = allName;
